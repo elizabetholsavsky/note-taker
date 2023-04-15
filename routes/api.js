@@ -1,6 +1,7 @@
 // API ROUTES
 const express = require('express');
 const router = express.Router();
+const path = require('path');
 
 // GET /api/notes (return db.json)
 
