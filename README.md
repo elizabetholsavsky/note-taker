@@ -34,7 +34,7 @@ URL
 
 ## Contributing
 
-[Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo).
+[Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo)).
 
 ## Tests
 
