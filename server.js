@@ -9,12 +9,12 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 // require html/api routers
-const htmlRouter = require("./routes/html");
-const apiRouter = require("./routes/api");
+const htmlRouter = require("./routes/html.js");
+const apiRouter = require("./routes/api.js");
 
 // link routes to path
-app.use("/api/notes", htmlRouter);
-app.use("/notes", apiRouter);
+app.use(htmlRouter);
+app.use("/api", apiRouter);
 
 // port check
 app.listen(PORT, () =>
