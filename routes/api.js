@@ -2,7 +2,8 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 const notes = require('../db/db.json');
-var uniqueID = require('uniqid'); 
+const { v4: uuidv4 } = require('uuid');
+// console.log(uuidv4()); 
 
 // GET /api/notes (return db.json)
 router.get('/notes', (req, res) => {
