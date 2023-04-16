@@ -21,7 +21,7 @@ router.post('/notes', (req, res) => {
         const newNote = {
             title,
             text,
-            note_id: uuidv4(),
+            id: uuidv4(),
         };
 
         // push new note into notes (JSON)
