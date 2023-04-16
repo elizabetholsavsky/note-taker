@@ -54,7 +54,25 @@ router.post('/notes', (req, res) => {
 
 // DELETE /api/notes/:id 
 router.delete('/notes/:id', (req, res) => {
+    // console.log(notes);
+    try {
+        // filter out note to be deleted
+        let filteredNotes = notes.filter(note => note.id != req.params.id)
+        // console.log(filteredNotes);
+        // convert filtered notes to string
+        let notesString = JSON.stringify(filteredNotes, null, 3);
+        // rewrite file without deleted note
+        fs.writeFile(`./db/db.json`, notesString, (err) =>
+        err
+            ? console.error(err)
+            : console.log(`Note deleted!`) 
+        );
 
+        res.status(200).json(filteredNotes);
+    } catch (error) {
+        res.status(500).json('Error deleting note');
+    }
+    
 });
 
 module.exports = router;
