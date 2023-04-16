@@ -23,7 +23,7 @@ URL
 * [Questions](#questions)
 
 ## Installation
-
+Check if you have Node.js installed by typing "node -v" in your command line. If node is not installed, visit the [Node.js website](https://nodejs.org/en) to install. Next, clone this project repository to your computer. Use the command "npm install" to install dependecies (Express.js & UUID). Type "node server.js" or "npm run s" to start server.
 
 ## Usage
 
@@ -35,9 +35,6 @@ URL
 ## Contributing
 
 [Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo)).
-
-## Tests
-
 
 ## Questions
 
