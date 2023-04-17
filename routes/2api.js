@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const fs = require('fs');
-let notes = require('../db/db.json');
+let notes = require(path.join(__dirname, '/../db/db.json'));
 const { v4: uuidv4 } = require('uuid');
 // console.log(uuidv4()); 
 
@@ -31,7 +31,7 @@ router.post('/notes', (req, res) => {
         let notesString = JSON.stringify(notes, null, 3);
 
         // rewrite file with all notes using string
-        fs.writeFile(`./db/db.json`, notesString, (err) =>
+        fs.writeFile(path.join(__dirname, '/../db/db.json'), notesString, (err) =>
         err
             ? console.error(err)
             : console.log(`New note has been added!`) 
@@ -62,7 +62,7 @@ router.delete('/notes/:id', (req, res) => {
         // convert filtered notes to string
         let notesString = JSON.stringify(filteredNotes, null, 3);
         // rewrite file without deleted note
-        fs.writeFile(`./db/db.json`, notesString, (err) =>
+        fs.writeFile(path.join(__dirname, '/../db/db.json'), notesString, (err) =>
         err
             ? console.error(err)
             : console.log(`Note deleted!`) 
