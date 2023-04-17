@@ -11,7 +11,8 @@ This application was created as part of a UT Full Stack Coding Bootcamp challeng
 [![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=flat)](https://nodemon.io/)
 [![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat)](https://insomnia.rest/)
 
-URL
+[https://eko-note-taker.herokuapp.com/](https://eko-note-taker.herokuapp.com/)
+![note-taker](https://user-images.githubusercontent.com/116515976/232352674-7ee2c433-d335-4ec9-82e7-1a638c7e0be9.png)
 
 ## Table of Contents
 
@@ -19,13 +20,16 @@ URL
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
-Check if you have Node.js installed by typing "node -v" in your command line. If node is not installed, visit the [Node.js website](https://nodejs.org/en) to install. Next, clone this project repository to your computer. Use the command "npm install" to install dependecies (Express.js & UUID). Type "node server.js" or "npm run s" to start server.
+To run application locally, check if you have Node.js installed by typing "node -v" in your command line. If node is not installed, visit the [Node.js website](https://nodejs.org/en) to install. Next, clone this project repository to your computer. Use the command "npm install" to install dependecies (Express.js & UUID). Type "node server.js" or "npm start" to start server.
 
 ## Usage
+Access website through deployed [Heroku link](https://eko-note-taker.herokuapp.com/). Type a new note title and text in the desginated input areas. Click the 'save' icon to save a new note. Access and open saved notes by selecting a note in the list located on the left side. Click the red trash can to delete a saved note. Watch the [video demonstration](https://drive.google.com/file/d/16YwQKo7FNzu9fRjiVl0oy89dCqurjNsc/view?usp=sharing) to view basic functionality.
+
+
+https://user-images.githubusercontent.com/116515976/232352683-238e7fad-80fc-400c-b428-8d9ac61bbef9.mp4
 
 
 ## License
