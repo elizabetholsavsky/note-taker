@@ -32,6 +32,7 @@ const getNotes = () =>
       'Content-Type': 'application/json',
     },
   })
+  // ADDED notes to JSON
   .then(notes => notes.json());
 
 const saveNote = (note) =>
