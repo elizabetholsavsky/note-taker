@@ -88,8 +88,6 @@ const handleNoteDelete = (e) => {
 
   if (activeNote.id === noteId) {
     activeNote = {};
-    // ADDED TO DELETE NOTE FROM PAGE
-    // renderActiveNote();
   }
 
   deleteNote(noteId)

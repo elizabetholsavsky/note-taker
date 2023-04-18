@@ -56,6 +56,11 @@ router.post('/notes', (req, res) => {
 router.delete('/notes/:id', (req, res) => {
         const { id } = req.params;
 
+        fs.readFile("./db/db.json", "utf8", (error, data) =>
+        error ? console.error(error) : (notes = JSON.parse(data))
+        );
+
+
         const deletedNote = notes.filter(note => note.id === req.params.id)
 
         if(deletedNote) {
