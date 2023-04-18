@@ -60,7 +60,6 @@ router.delete('/notes/:id', (req, res) => {
         error ? console.error(error) : (notes = JSON.parse(data))
         );
 
-
         const deletedNote = notes.filter(note => note.id === req.params.id)
 
         if(deletedNote) {
@@ -75,7 +74,6 @@ router.delete('/notes/:id', (req, res) => {
         } else {
             res.status(500).json('Error deleting note');
         }
-    
 });
 
 module.exports = router;
