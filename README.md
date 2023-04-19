@@ -28,7 +28,7 @@ To run application locally, check if you have Node.js installed by typing "node 
 
 ## Usage
 * Access website through deployed [Heroku link](https://eko-note-taker.herokuapp.com/). 
-* Type a new note title and text in the desginated input areas. 
+* Type a new note title and note text in the designated input areas. 
 * Click the 'save' icon to save a new note. 
 * Access and open saved notes by selecting a note in the list located on the left side. 
 * Click the red trash can to delete a saved note. 
