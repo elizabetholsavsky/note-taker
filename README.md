@@ -33,7 +33,7 @@ To run application locally, check if you have Node.js installed by typing "node 
 * Access and open saved notes by selecting a note in the list located on the left side. 
 * Click the red trash can to delete a saved note. 
 
-Watch the [video demonstration](https://drive.google.com/file/d/16YwQKo7FNzu9fRjiVl0oy89dCqurjNsc/view?usp=sharing) to view basic functionality.
+Watch the [video demonstration](https://drive.google.com/file/d/16f2OiveeEFYcrSnj4YYAlgGg8UW5HTwf/view?usp=sharing) to view basic functionality.
 
 
 https://user-images.githubusercontent.com/116515976/232352683-238e7fad-80fc-400c-b428-8d9ac61bbef9.mp4
