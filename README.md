@@ -11,8 +11,6 @@ This application was created as part of a UT Full Stack Coding Bootcamp challeng
 [![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=flat)](https://nodemon.io/)
 [![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat)](https://insomnia.rest/)
 
-[https://eko-note-taker.herokuapp.com/](https://eko-note-taker.herokuapp.com/)
-
 ![note-taker](https://user-images.githubusercontent.com/116515976/232352674-7ee2c433-d335-4ec9-82e7-1a638c7e0be9.png)
 
 ## Table of Contents
