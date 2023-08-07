@@ -19,7 +19,7 @@ This application was created as part of a UT Full Stack Coding Bootcamp challeng
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Questions](#questions)
+* [Contact](#contact)
 
 ## Installation
 To run application locally, check if you have Node.js installed by typing "node -v" in your command line. If node is not installed, visit the [Node.js website](https://nodejs.org/en) to install. Next, clone this project repository to your computer. Use the command "npm install" to install dependecies (Express.js & UUID). Type "node server.js" or "npm start" to start server.
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/116515976/232352683-238e7fad-80fc-400c
 
 [Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo)) on behalf of UT Austin Boot Camps.
 
-## Questions
+## Contact
 * Email elizabetholsavsky@gmail.com
 * LinkedIn [https://www.linkedin.com/in/elizabetholsavsky/](https://www.linkedin.com/in/elizabetholsavsky/)
 * Portfolio [https://elizabetholsavsky.com/](https://elizabetholsavsky.com/)
