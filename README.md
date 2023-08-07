@@ -48,9 +48,8 @@ https://user-images.githubusercontent.com/116515976/232352683-238e7fad-80fc-400c
 [Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo)) on behalf of UT Austin Boot Camps.
 
 ## Questions
-
-Ask questions by contacting me at:
-
-Github [elizabetholsavsky](https://github.com/elizabetholsavsky)
-
-Email elizabetholsavsky@gmail.com
+* Email elizabetholsavsky@gmail.com
+* LinkedIn [https://www.linkedin.com/in/elizabetholsavsky/](https://www.linkedin.com/in/elizabetholsavsky/)
+* Portfolio [https://elizabetholsavsky.com/](https://elizabetholsavsky.com/)
+* Hashnode [https://elizabetholsavsky.hashnode.dev/](https://elizabetholsavsky.hashnode.dev/)
+* Twitter [@elizavsky](https://twitter.com/home)
