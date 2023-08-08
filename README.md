@@ -2,18 +2,17 @@
 
 # Note Taker
 
-</div>
-
-## Description
-
-This application was created as part of a UT Full Stack Coding Bootcamp challenge. I supplied back-end functionality to front-end starter code to create a note taking application that can be used to write and save notes. 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
 [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](https://expressjs.com/)
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat)](https://heroku.com)
 [![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=flat)](https://nodemon.io/)
 [![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat)](https://insomnia.rest/)
+</div>
+
+## Description
+
+This application was created as part of a UT Full Stack Coding Bootcamp challenge. I supplied back-end functionality to front-end starter code to create a note taking application that can be used to write and save notes. 
 
 ![note-taker](https://user-images.githubusercontent.com/116515976/232352674-7ee2c433-d335-4ec9-82e7-1a638c7e0be9.png)
 
