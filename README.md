@@ -28,7 +28,6 @@ This application was created as part of a UT Full Stack Coding Bootcamp challeng
 To run application locally, check if you have Node.js installed by typing "node -v" in your command line. If node is not installed, visit the [Node.js website](https://nodejs.org/en) to install. Next, clone this project repository to your computer. Use the command "npm install" to install dependecies (Express.js & UUID). Type "node server.js" or "npm start" to start server.
 
 ## Usage
-* Access website through deployed [Heroku link](https://eko-note-taker.herokuapp.com/). 
 * Type a new note title and note text in the designated input areas. 
 * Click the 'save' icon to save a new note. 
 * Access and open saved notes by selecting a note in the list located on the left side. 
