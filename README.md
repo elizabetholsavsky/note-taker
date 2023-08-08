@@ -1,4 +1,8 @@
+<div align="center">
+
 # Note Taker
+
+</div>
 
 ## Description
 
