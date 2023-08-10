@@ -51,5 +51,6 @@ https://user-images.githubusercontent.com/116515976/232352683-238e7fad-80fc-400c
 * Email elizabetholsavsky@gmail.com
 * LinkedIn [https://www.linkedin.com/in/elizabetholsavsky/](https://www.linkedin.com/in/elizabetholsavsky/)
 * Portfolio [https://elizabetholsavsky.com/](https://elizabetholsavsky.com/)
-* Hashnode [https://elizabetholsavsky.hashnode.dev/](https://elizabetholsavsky.hashnode.dev/)
+* Hashnode Blog [https://blog.elizabetholsavsky.com/](https://blog.elizabetholsavsky.com/)
 * Twitter [@elizavsky](https://twitter.com/home)
+
